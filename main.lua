@@ -3,7 +3,6 @@ repeat wait() until game:IsLoaded() and game.Players.LocalPlayer
 local list = {
     -- Build an Island
     [101949297449238] = "https://raw.githubusercontent.com/pndxyz/main/main/BuildAnIsland.lua",
-    
     -- Anime RangerX
     [72829404259339] = "https://raw.githubusercontent.com/pndxyz/script/xyz/arx.lua"
 }
